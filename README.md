@@ -13,4 +13,4 @@ const raul = {
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH0RlN&layout=compact&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Rosmart&repo=Filr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Rosmart&repo=Filr)](https://github.com/Gabriel-Rosmart/Filr)
