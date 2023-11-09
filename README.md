@@ -1,5 +1,5 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=TH0RlN&color=brightgreen&label=Views&style=plastic)]
-[![GitHub last commit](https://img.shields.io/github/last-commit/TH0RlN/TH0RlN?style=plastic)]
+![Profile Views](https://komarev.com/ghpvc/?username=TH0RlN&color=brightgreen&label=Views&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/TH0RlN/TH0RlN?style=plastic)
 <h2>Hi, I'm Raúl Arias</h2>
 
 ```javascript
@@ -11,6 +11,6 @@ const raul = {
     projects: "FILR"
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH0RlN&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH0RlN&layout=compact&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-rosmart&repo=filr-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Rosmart&repo=Filr-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
