@@ -15,4 +15,4 @@ const raul = {
 
 <h3>Main contributor to:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Rosmart&repo=Filr&theme=dark)](https://github.com/Gabriel-Rosmart/Filr)<img src="https://github.com/TH0RlN/TH0RlN/blob/master/src/filr-color.png" heigth="120px">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Rosmart&repo=Filr&theme=dark)](https://github.com/Gabriel-Rosmart/Filr)<img src="https://github.com/TH0RlN/TH0RlN/blob/master/src/filr-color.png" style="heigth=120px">
