@@ -11,6 +11,6 @@ const raul = {
     projects: "FILR"
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH0RlN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH0RlN&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm one of the main contributors to 
