@@ -1,5 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TH0RlN&color=brightgreen&label=Views&style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/TH0RlN/TH0RlN?style=plastic)
 <h2>Hi, I'm Raúl Arias</h2>
 
 ```javascript
